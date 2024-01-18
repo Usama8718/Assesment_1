@@ -1,4 +1,5 @@
 import 'dart:io';
+import 'package:dictonary/models/word_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_dictionary/models/previous_words_model.dart';
 import 'package:flutter_dictionary/models/word_model.dart';

@@ -1,3 +1,8 @@
+import 'package:dictonary/constants/strings.dart';
+import 'package:dictonary/themeprovider.dart';
+import 'package:dictonary/ui/home.dart';
+import 'package:dictonary/ui/random_word.dart';
+import 'package:dictonary/ui/results.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_dictionary/constants/strings.dart';
 import 'package:flutter_dictionary/themeprovider.dart';

@@ -1,3 +1,4 @@
+import 'package:dictonary/models/previous_words_model.dart';
 import 'package:flutter_dictionary/models/previous_words_model.dart';
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
